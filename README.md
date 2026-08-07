@@ -1,4 +1,4 @@
-## Hi there 👋
+## bem vindo
  "<img width="1659" height="948" alt="ChatGPT Image 7 de ago  de 2026, 08_38_21" src="https://github.com/user-attachments/assets/813e9bbc-2bcf-4eed-bbfc-383720c19495" />
 " />
 
