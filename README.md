@@ -3,7 +3,7 @@
 " />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&center=true&width=900&height=80&lines=Eu+vou+te+esperar+Cigana+Eu+vou+te+pegar+Cigana+Eu+vou+te+beijar+Cigana+cigana!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&center=true&width=2000&height=80&lines=Eu+vou+te+esperar+Cigana+Eu+vou+te+pegar+Cigana+Eu+vou+te+beijar+Cigana+cigana!" />
 </p>
 
 <!--
