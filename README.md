@@ -1,5 +1,6 @@
 ## Hi there 👋
-<img width="1280" height="720" alt="image" src="https://images.hdqwalls.com/wallpapers/nicolas-cage-is-shadowed-hero-ti.jpg" />
+<img width="1280" height="720" alt="image" src="<img width="1659" height="948" alt="ChatGPT Image 7 de ago  de 2026, 08_38_21" src="https://github.com/user-attachments/assets/813e9bbc-2bcf-4eed-bbfc-383720c19495" />
+" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&center=true&width=500&height=80&lines=Seja+bem+vindo!" />
