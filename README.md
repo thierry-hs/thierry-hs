@@ -1,6 +1,6 @@
 ## bem vindo
  <img width="1659" height="948" alt="ChatGPT Image 7 de ago  de 2026, 08_38_21" src="https://github.com/user-attachments/assets/813e9bbc-2bcf-4eed-bbfc-383720c19495" />
-" />
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=1E00F7&center=true&width=1300&height=80&lines=Eu+vou+te+esperar+Cigana+Eu+vou+te+pegar+Cigana+Eu+vou+te+beijar+Cigana+cigana!" />
